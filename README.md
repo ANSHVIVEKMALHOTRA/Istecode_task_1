@@ -15,3 +15,7 @@ To delete a task, click the delete button next to it.
 
 ### Local Storage
 The application uses local storage to persist the to-do list even after the page is refreshed. This means that your tasks will be saved locally and will reappear when you revisit the page.
+
+
+### Preview
+![image](https://github.com/ANSHVIVEKMALHOTRA/Istecode_task_1/assets/119870034/172f7402-49ca-49d1-b007-29b96b2f871f)
