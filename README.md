@@ -1,22 +1,17 @@
-## Create a To-Do List App
-Requirements:
-Create a new React application using create-react-app or any other method you're comfortable
-with.
- Design a simple UI for a to-do list with the following elements:
- Input field for adding a new task.
- Button to add the task to the list.
- Display area for the list of tasks.
- Each task should have a checkbox to mark it as complete and a delete button to remove
-it.
- Implement the functionality to:
- Add a new task to the list when the user clicks the "Add" button.
- Mark a task as complete when the user clicks the checkbox.
- Remove a task from the list when the user clicks the delete button.
-Bonus:
- Add the ability to edit a task.
- Implement local storage to persist the to-do list even when the page is refreshed.
-Submission:
- Create a public GitHub repository named "Istecode_task_1."
- Submit the repository link using the Google form provided by the strict deadline: December
-31, 9:00 PM.
-Good luck with your assignment!! Since you've covered the basics, it’s time to jump into the handson part and use what you've learned. It's time to turn theory into action.
+## React To-Do List Application(ISTEcode Assignment 1)
+This is a simple to-do list application built with React that allows users to add, complete, edit, and delete tasks. The application uses React state and functional components with hooks to manage the list of tasks and their statuses.
+
+### Features
+Input field for adding new tasks.
+"Add" button to add tasks to the list.
+Display area for the list of tasks.
+Each task has a delete button to remove it.
+Optional: Local storage to persist the to-do list even after page refresh.
+
+### How to Use
+Enter a task in the input field.
+Click the "Add" button to add the task to the list.
+To delete a task, click the delete button next to it.
+
+### Local Storage
+The application uses local storage to persist the to-do list even after the page is refreshed. This means that your tasks will be saved locally and will reappear when you revisit the page.
